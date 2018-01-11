@@ -1,4 +1,35 @@
 .fancy-header {
-    color: blue; /* single line comment */
+    color: blue;
+
+
+.underline
     text-decoration: underline;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+h1, h2, h3{
+    text-align: center;
+    color: aquamarine;
+}
+
+body {
+    background-color: coral;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-V9aO44ic4-mGNbaNjc7Z9D2W18dgFSHx14ypo8HK96zComHc");
+}
+
+ol.upper-roman {
+                list-style-type: upper-roman;
+}
+
+ul {
+    list-style-type: circle;
+
+}
+
+p {
+    font-family: 'Joti One', cursive;
 }
