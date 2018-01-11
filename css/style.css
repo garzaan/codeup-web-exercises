@@ -27,9 +27,17 @@ ol.upper-roman {
 
 ul {
     list-style-type: circle;
+    text-align: center;
 
 }
 
 p {
     font-family: 'Joti One', cursive;
+}
+
+.centered {
+    display: block;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
 }
