@@ -17,8 +17,13 @@ h1, h2, h3{
 }
 
 body {
-    background-color: coral;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-V9aO44ic4-mGNbaNjc7Z9D2W18dgFSHx14ypo8HK96zComHc");
+    background-color:rgb(5,18,12);
+    background-image: url("../img/newbackg.jpeg");
+    background-repeat: no-repeat;
+    background-size: 95%;
+    background-attachment: fixed;
+    opacity: .99;
+    color: aquamarine;
 }
 
 ol.upper-roman {
@@ -41,3 +46,6 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
+
+
+
